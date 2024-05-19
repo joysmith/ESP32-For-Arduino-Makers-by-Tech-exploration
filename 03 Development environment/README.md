@@ -22,10 +22,15 @@
 https://espressif.github.io/arduino-esp32/package_esp32_index.json
 ```
 
-2. Open arduino, go to tools--> board--> board manger--> search:esp32--> install
+2. Open arduino, go to tools--> board--> board manger--> search:esp32 by espressifsystem--> install
 
 3. Open arduino, go to tools--> boards--> ESP32 dev module
 
 4. Open arduino, go to file--> example--> _Check them out_
 
 ### 13. Install the drivers CP21012 USB chip<a id="13"></a>
+
+- USB-TO-UART BRIDGE CHIPS [click me](http://esp32.net/usb-uart/)
+- Download and Install VCP Drivers for window[click me](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers)
+- restart system
+- Open arduino, go to tools--> Port"..."--> USBtoUART
